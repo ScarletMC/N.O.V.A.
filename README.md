@@ -1,2 +1,2 @@
 # N.O.V.A.
-A simple Discord bot to provide user support through the OpenAI APIs
+Un semplice bot Discord per fornire supporto agli utenti tramite le API OpenAI per il server Minecraft [ScarletMC](https://www.scarletmc.it/).
